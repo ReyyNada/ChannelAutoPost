@@ -8,29 +8,29 @@
         "telegram-bot",
         "botzhub"
     ],
-    "repository": "https://github.com/xditya/ChannelAutoPost",
-    "website": "xditya.me",
+    "repository": "https://github.com/ReyyNada/ChannelAutoPost",
+    "website": "xnxx.com",
     "success_url": "https://t.me/BotzHub",
     "env": {
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "5672862795:AAHBia-A6Dqxq7dvYLeGzk7kn7vV78auC5E"
         },
         "APP_ID": {
             "description": "Your app id from my.telegram.org",
-            "value": ""
+            "value": "12871983"
         },
         "API_HASH": {
             "API_HASH": "Your api hash from my.telegram.org",
-            "value": ""
+            "value": "e6a47ce5bc5606c4ce3f84c4461f5d84"
         },
         "FROM_CHANNEL": {
             "description": "The ID of the main channel from where posts have to be copied.",
-            "value": ""
+            "value": "-1001791599167"
         },
         "TO_CHANNEL": {
             "description": "The ID of the channel to which the posts are to be sent.",
-            "value": ""
+            "value": "-1001752389100"
         }
     },
     "buildpacks": [
